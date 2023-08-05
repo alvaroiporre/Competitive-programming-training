@@ -6,3 +6,5 @@ if [5, 5, 7] == number_list:
     print('YES')
 else:
     print('NO')
+
+#AC
