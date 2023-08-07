@@ -35,7 +35,7 @@ As an aspiring programmer and algorithm enthusiast, I have created this reposito
 ## Repository Structure
 
 The repository is organized in the following structure:
-
+```
 /
 ├── Codeforces/
 │ ├── contest-001/
@@ -51,7 +51,7 @@ The repository is organized in the following structure:
 │ └── ...
 ├── contest-002/
 └── ...
-
+```
 
 In each contest directory, you will find my Python solutions to the corresponding problems.
 
