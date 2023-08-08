@@ -1,5 +1,4 @@
 from sys import stdin, stdout
-print(50**4)
 
 [n, a] = [int(x) for x in stdin.readline().split() ] 
 x = [int(x) for x in stdin.readline().split() ] 
