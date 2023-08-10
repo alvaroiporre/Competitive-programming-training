@@ -7,3 +7,5 @@ elif a == b or b == c or a == c:
     stdout.write('2\n')
 else:
     stdout.write('3\n')
+
+#AC
