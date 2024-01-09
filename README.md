@@ -2,7 +2,7 @@
 
 ![Coding and Algorithms](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20191113185616/Best-Way-To-Start-With-Competitive-Programming-GeeksforGeeks-CP-Live-Course.png)
 
-Welcome to my Coding and Algorithms Practice Repository! This repository is dedicated to storing the solutions of challenges I am solving to enhance my coding and algorithmic skills using Python. Here, you will find my solutions to problems from Codeforces and AtCoder online judges.
+Welcome to my Coding and Algorithms Practice Repository! This repository is dedicated to storing the solutions of challenges I am solving to enhance my coding and algorithmic skills using Python, Java and TypeScript. Here, you will find my solutions to problems from Codeforces and AtCoder online judges and Codewars.
 
 ## Table of Contents
 
@@ -49,8 +49,10 @@ The repository is organized in the following structure:
 │ ├── problem-a.py
 │ ├── problem-b.py
 │ └── ...
-├── contest-002/
-└── ...
+| └── contest-002/
+| └── ...
+└── Codewars/
+
 ```
 
 In each contest directory, you will find my Python solutions to the corresponding problems.
