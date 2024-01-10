@@ -19,10 +19,6 @@ public class Kata {
       }
     }
     if(!rest.equals("0")) sol = rest + sol;
-    int i = 0;
-    while(sol.substring(i,i+1).equals("0")){
-      i++;
-    }
-    return sol.substring(i);
+    return stripStart(sol, "0");
   }
 }
