@@ -22,3 +22,18 @@ public class CuckooClock {
     return sh + ":" + sm;
     }
 }
+
+// public class CuckooClock {
+  
+//   public static String cuckooClock(String inputTime, int chimes) {
+//     int hr = Integer.parseInt(inputTime.substring(0,2));
+//     int min = Integer.parseInt(inputTime.substring(3,5));
+    
+//     while (true) {
+//       if (min == 0) chimes -= hr; else if (min % 15 == 0) chimes--; // cuckoo!      
+//       if (chimes <= 0) return String.format("%02d:%02d", hr, min);  // done
+//       if (++min > 59) { min = 0; if (++hr > 12) hr = 1; }           // tick-tock
+//     }
+//   }
+  
+// }
